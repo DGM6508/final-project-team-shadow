@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "U3D Project 8",
+"dataUrl": "U3D_DanZhu&YiranLi_Final.data.unityweb",
+"asmCodeUrl": "U3D_DanZhu&YiranLi_Final.asm.code.unityweb",
+"asmMemoryUrl": "U3D_DanZhu&YiranLi_Final.asm.memory.unityweb",
+"asmFrameworkUrl": "U3D_DanZhu&YiranLi_Final.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
